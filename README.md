@@ -1,4 +1,4 @@
-## FLO CLTV Tahmin Projesi
+# FLO CLTV Tahmin Projesi
 Bu proje, FLO müşterileri için BG/NBD ve Gamma-Gamma modellerini kullanarak Müşteri Yaşam Boyu Değerini (CLTV) tahmin etmeyi amaçlamaktadır. Veri seti, 2020-2021 yılları arasındaki müşteri işlemleri ve alışveriş davranışlarını içermektedir. Proje, veri temizleme, aykırı değerlerin işlenmesi, model kurma ve tahmin edilen CLTV'ye göre müşterilerin segmentlere ayrılmasını içerir.
 
 # Proje Adımları
